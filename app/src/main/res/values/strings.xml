@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Very Good Sorting App</string>
+    <string name="button_send">Start</string>
+    <string name="edit_message">Enter digits. (Min 3, Max 8)</string>
+    <string name="button_toMainMenu">Main Menu</string>
+    <string name="button_toInput">Enter Again</string>
+    <string name="button_toAbout">About</string>
+    <string name="button_toHelp">Help</string>
+    <string name="button_toStart">Start</string>
+</resources>
