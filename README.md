@@ -1,0 +1,3 @@
+# verygoodsortingapp
+Android application for CPSC 544 Adv. Software Process
+Bubble Sort application was created to learn the Agile and Scrum methodologies. 
